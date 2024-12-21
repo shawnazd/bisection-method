@@ -1,4 +1,4 @@
-# 🔢 Bisection Method for Root-Finding  🔢
+# 🔢 Bisection Method for Root-Finding 🔢
 
 ## Project Description 📝
 
